@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2f83d3c0-63a5-4a2e-89b7-0a4260a3d4b7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weatherquality/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/weatherquality/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/weatherquality/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/weatherquality/templates/home.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/weatherquality/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/weatherquality/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,23 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weatherquality/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/weatherquality/urls.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-              <folding>
-                <element signature="e#632#660#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="90">
+              <caret line="51" column="26" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -37,17 +27,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/weatherquality/templates/base.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+            <state relative-caret-position="1170">
+              <caret line="39" column="28" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/weatherquality/templates/home.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
+            <state relative-caret-position="420">
+              <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
             </state>
           </provider>
         </entry>
@@ -56,7 +46,7 @@
         <entry file="file://$PROJECT_DIR$/weatherquality/templates/about.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -79,10 +69,10 @@
         <option value="$PROJECT_DIR$/weather/settings.py" />
         <option value="$PROJECT_DIR$/weather/urls.py" />
         <option value="$PROJECT_DIR$/weatherquality/templates/about.html" />
-        <option value="$PROJECT_DIR$/weatherquality/templates/home.html" />
         <option value="$PROJECT_DIR$/weatherquality/urls.py" />
         <option value="$PROJECT_DIR$/weatherquality/templates/base.html" />
         <option value="$PROJECT_DIR$/weatherquality/views.py" />
+        <option value="$PROJECT_DIR$/weatherquality/templates/home.html" />
       </list>
     </option>
   </component>
@@ -139,6 +129,34 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="weather" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/weatherquality" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/weatherquality/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.views" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -157,7 +175,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24983074" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983074" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -165,7 +183,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295583" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -208,20 +226,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/weatherquality/templates/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/weatherquality/templates/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/weatherquality/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="630">
@@ -232,17 +236,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/weatherquality/templates/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/weatherquality/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+        <state relative-caret-position="1170">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="21" selection-end-line="39" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/weatherquality/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        <state relative-caret-position="90">
+          <caret line="51" column="26" selection-start-line="51" selection-start-column="12" selection-end-line="51" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/weatherquality/templates/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="50" selection-start-line="14" selection-start-column="50" selection-end-line="14" selection-end-column="50" />
         </state>
       </provider>
     </entry>
